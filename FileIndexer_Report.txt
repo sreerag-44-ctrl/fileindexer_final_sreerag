@@ -1,0 +1,75 @@
+
+# File Indexer Project Report
+
+## Objective
+Develop a distributed system using C# that indexes the contents of `.txt` files using two agent applications and a master process. The agents scan files and send word count data via named pipes to the master, which aggregates and displays the results.
+
+## Project Structure
+- **Master**: Waits for data from both agents using two named pipes and aggregates the word index.
+- **ScannerA**: Reads `.txt` files from a given directory, counts words, and sends data as JSON via pipe `pipe_agent1`.
+- **ScannerB**: Same as ScannerA but sends data via pipe `pipe_agent2`.
+
+## Technologies Used
+- .NET 6
+- Named pipes (`NamedPipeServerStream` and `NamedPipeClientStream`)
+- Multithreading (`Thread`)
+- Processor affinity (`Processor.ProcessorAffinity`)
+- JSON serialization (`System.Text.Json`)
+
+## Multithreading
+Each application uses threads:
+- Agents: One thread to process files and send data.
+- Master: Two threads to receive data from each agent concurrently.
+
+## Processor Affinity
+Each process runs on a specific core:
+- Master: Not set (defaults to system-managed core).
+- ScannerA: Runs on core 0.
+- ScannerB: Runs on core 1.
+
+## UML Diagram
+Included in the ZIP as `uml_diagram.png` (optional placeholder).
+
+## Test Results
+The master aggregates and prints word counts received from both agents, example output:
+```
+Waiting for connection on pipe: agent1
+Waiting for connection on pipe: agent2
+Master is listening to both agents. Press any key to exit...
+Connected to agent1
+Pipe agent1 finished receiving.
+Connected to agent2
+Pipe agent2 finished receiving.
+
+Final Aggregated Word Index:
+file2.txt:test:4
+file2.txt:world:2
+file1.txt:hello:4
+file1.txt:world:2
+```
+
+## Challenges Faced
+- Named pipe synchronization and connection handling.
+- Ensuring consistent JSON format between agents and master.
+- Processor affinity and multithreading debugging.
+
+## GitHub Repository
+[https://github.com/sreerag-44-ctrl/FileIndexer](https://github.com/sreerag-44-ctrl/FileIndexer)
+
+## How to Run
+1. Build the solution using Visual Studio.
+2. Run Master:
+   ```
+   Master.exe pipe_agent1 pipe_agent2
+   ```
+3. Run Agent A:
+   ```
+   ScannerA.exe pipe_agent1 <directoryPathA>
+   ```
+4. Run Agent B:
+   ```
+   ScannerB.exe pipe_agent2 <directoryPathB>
+   ```
+
+## Screenshots
+Include screenshots of console output and directory structure in your final report.
