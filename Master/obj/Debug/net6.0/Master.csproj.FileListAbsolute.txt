@@ -1,0 +1,28 @@
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\bin\Debug\net6.0\Master.exe
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\bin\Debug\net6.0\Master.deps.json
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\bin\Debug\net6.0\Master.runtimeconfig.json
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\bin\Debug\net6.0\Master.dll
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\bin\Debug\net6.0\Master.pdb
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\obj\Debug\net6.0\Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\obj\Debug\net6.0\Master.AssemblyInfoInputs.cache
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\obj\Debug\net6.0\Master.AssemblyInfo.cs
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\obj\Debug\net6.0\Master.csproj.CoreCompileInputs.cache
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\obj\Debug\net6.0\Master.dll
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\obj\Debug\net6.0\refint\Master.dll
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\obj\Debug\net6.0\Master.pdb
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\obj\Debug\net6.0\Master.genruntimeconfig.cache
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\Master\obj\Debug\net6.0\ref\Master.dll
+C:\Users\Sreerag\Desktop\fileindexer111\Master\obj\Debug\net6.0\Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sreerag\Desktop\fileindexer111\Master\obj\Debug\net6.0\Master.AssemblyInfoInputs.cache
+C:\Users\Sreerag\Desktop\fileindexer111\Master\obj\Debug\net6.0\Master.AssemblyInfo.cs
+C:\Users\Sreerag\Desktop\fileindexer111\Master\obj\Debug\net6.0\Master.csproj.CoreCompileInputs.cache
+C:\Users\Sreerag\Desktop\fileindexer111\Master\obj\Debug\net6.0\Master.dll
+C:\Users\Sreerag\Desktop\fileindexer111\Master\obj\Debug\net6.0\refint\Master.dll
+C:\Users\Sreerag\Desktop\fileindexer111\Master\obj\Debug\net6.0\Master.pdb
+C:\Users\Sreerag\Desktop\fileindexer111\Master\bin\Debug\net6.0\Master.exe
+C:\Users\Sreerag\Desktop\fileindexer111\Master\bin\Debug\net6.0\Master.deps.json
+C:\Users\Sreerag\Desktop\fileindexer111\Master\bin\Debug\net6.0\Master.runtimeconfig.json
+C:\Users\Sreerag\Desktop\fileindexer111\Master\bin\Debug\net6.0\Master.dll
+C:\Users\Sreerag\Desktop\fileindexer111\Master\bin\Debug\net6.0\Master.pdb
+C:\Users\Sreerag\Desktop\fileindexer111\Master\obj\Debug\net6.0\Master.genruntimeconfig.cache
+C:\Users\Sreerag\Desktop\fileindexer111\Master\obj\Debug\net6.0\ref\Master.dll

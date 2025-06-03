@@ -1,0 +1,28 @@
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\bin\Debug\net6.0\ScannerA.exe
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\bin\Debug\net6.0\ScannerA.deps.json
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\bin\Debug\net6.0\ScannerA.runtimeconfig.json
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\bin\Debug\net6.0\ScannerA.dll
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\bin\Debug\net6.0\ScannerA.pdb
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\obj\Debug\net6.0\ScannerA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\obj\Debug\net6.0\ScannerA.AssemblyInfoInputs.cache
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\obj\Debug\net6.0\ScannerA.AssemblyInfo.cs
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\obj\Debug\net6.0\ScannerA.csproj.CoreCompileInputs.cache
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\obj\Debug\net6.0\ScannerA.dll
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\obj\Debug\net6.0\refint\ScannerA.dll
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\obj\Debug\net6.0\ScannerA.pdb
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\obj\Debug\net6.0\ScannerA.genruntimeconfig.cache
+C:\Users\Sreerag\Downloads\FileIndexerProject (1)\fileindexer\ScannerA\obj\Debug\net6.0\ref\ScannerA.dll
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\bin\Debug\net6.0\ScannerA.exe
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\bin\Debug\net6.0\ScannerA.deps.json
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\bin\Debug\net6.0\ScannerA.runtimeconfig.json
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\bin\Debug\net6.0\ScannerA.dll
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\bin\Debug\net6.0\ScannerA.pdb
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\obj\Debug\net6.0\ScannerA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\obj\Debug\net6.0\ScannerA.AssemblyInfoInputs.cache
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\obj\Debug\net6.0\ScannerA.AssemblyInfo.cs
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\obj\Debug\net6.0\ScannerA.csproj.CoreCompileInputs.cache
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\obj\Debug\net6.0\ScannerA.dll
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\obj\Debug\net6.0\refint\ScannerA.dll
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\obj\Debug\net6.0\ScannerA.pdb
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\obj\Debug\net6.0\ScannerA.genruntimeconfig.cache
+C:\Users\Sreerag\Desktop\fileindexer111\ScannerA\obj\Debug\net6.0\ref\ScannerA.dll
