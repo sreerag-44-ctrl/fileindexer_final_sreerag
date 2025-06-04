@@ -62,6 +62,8 @@ namespace MasterApp
 
                 var receivedData = JsonSerializer.Deserialize<Dictionary<string, Dictionary<string, int>>>(json);
 
+
+        
                 if (receivedData != null)
                 {
                     lock (aggregatedIndex)
